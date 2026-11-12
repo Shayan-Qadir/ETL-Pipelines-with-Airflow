@@ -1,0 +1,6 @@
+# Astro Runtime includes common provider packages. Add project dependencies here:
+pymongo>=4.10.0
+requests>=2.32.0
+pytest>=8.3.0
+
+astro-run-dag # This package is needed for the astro run command. It will be removed before a deploy

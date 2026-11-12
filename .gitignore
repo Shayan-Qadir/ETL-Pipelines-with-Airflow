@@ -1,1 +1,22 @@
+# Assignment doc
 Task 3 Building Airflow ETL Pipeline .docx
+
+# Astro CLI & Airflow
+.astro/
+airflow_settings.yaml
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pytest_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+ENV/
+
+# OS
+.DS_Store
+Thumbs.db
